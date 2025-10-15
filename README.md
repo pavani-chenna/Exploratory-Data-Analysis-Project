@@ -97,3 +97,8 @@ https://colab.research.google.com/drive/1_iNLSEPpsu4e_zffQQ6PUnX-JINdpJ0n?usp=sh
 ![image_alt](https://github.com/pavani-chenna/Exploratory-Data-Analysis-Project/blob/e52833670b154d3cf9595723a465ae82faf72d53/Screenshot%20(6).png)
 ![image_alt](https://github.com/pavani-chenna/Exploratory-Data-Analysis-Project/blob/b4ef506c56fae5c7cc3f5e651bddaad1c2b7bf29/Screenshot%20(7).png)
 ![image_alt](https://github.com/pavani-chenna/Exploratory-Data-Analysis-Project/blob/dc692bc8b3d6dc948aabe9e83210dd017db24d09/Screenshot%20(8).png)
+
+## Author
+Pavani Chenna
+[cpavani6146@gmail.com]
+[www.linkedin.com/in/pavani-chenna]
