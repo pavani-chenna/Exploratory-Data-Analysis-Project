@@ -91,3 +91,7 @@ The dataset contains the following columns:
 ## How to Run
 ** Open in Google Colab**
 https://colab.research.google.com/drive/1_iNLSEPpsu4e_zffQQ6PUnX-JINdpJ0n?usp=sharing
+
+## visualizations
+![image alt](https://github.com/pavani-chenna/Exploratory-Data-Analysis-Project/blob/c097265c43352385d74511e2b3b79dfc17bd24e2/Screenshot%20(5).png)
+
